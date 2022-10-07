@@ -1,0 +1,2 @@
+void initWebServer();
+void handleWebServer();
